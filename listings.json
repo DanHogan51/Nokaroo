@@ -1,0 +1,480 @@
+{
+  "listings": [
+    {
+      "id": "okc-factory-obscura-mixtape",
+      "title": "Factory Obscura: Mix-Tape",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "neighborhood": "Automobile Alley",
+      "location_text": "25 NW 9th St, Oklahoma City, OK",
+      "description": "Immersive, psychedelic art house with interactive rooms and music-driven sets.",
+      "tags": [
+        "immersive art",
+        "indoor",
+        "date-friendly"
+      ],
+      "external_url": "https://www.factoryobscura.com/mixtape",
+      "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?q=80&w=1200&auto=format&fit=crop",
+      "added_at": "2025-09-07"
+    },
+    {
+      "id": "okc-99s-museum-women-pilots",
+      "title": "99s Museum of Women Pilots",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "neighborhood": "Near Will Rogers World Airport",
+      "location_text": "Oklahoma City, OK",
+      "description": "Only museum dedicated to women in aviation\u2014artifacts from Amelia Earhart to modern aviators.",
+      "tags": [
+        "museum",
+        "history",
+        "niche"
+      ],
+      "external_url": "https://www.museumofwomenpilots.org/",
+      "image": "https://images.unsplash.com/photo-1536104968055-4d61aa56f46a?q=80&w=1200&auto=format&fit=crop",
+      "added_at": "2025-09-07"
+    },
+    {
+      "id": "okc-museum-of-osteology",
+      "title": "Museum of Osteology (Skulls Unlimited)",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "neighborhood": "South OKC",
+      "location_text": "10301 S Sunnylane Rd, Oklahoma City, OK",
+      "description": "One-of-a-kind museum devoted to bones and skeletons\u2014over 300 skulls and full skeletons.",
+      "tags": [
+        "museum",
+        "oddities",
+        "family-friendly"
+      ],
+      "external_url": "https://www.skullsunlimited.com/pages/museum",
+      "image": "https://images.unsplash.com/photo-1524401344177-56e2593ae5ba?q=80&w=1200&auto=format&fit=crop",
+      "added_at": "2025-09-07"
+    },
+    {
+      "id": "okc-underground-tunnels",
+      "title": "OKC Underground Tunnels",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "neighborhood": "Downtown",
+      "location_text": "Entrances under multiple downtown buildings",
+      "description": "Color-lit pedestrian tunnels linking 20+ blocks\u2014public art and a fun weather\u2011proof stroll.",
+      "tags": [
+        "free",
+        "walking",
+        "hidden-in-plain-sight"
+      ],
+      "external_url": "https://downtownokc.com/underground",
+      "image": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?q=80&w=1200&auto=format&fit=crop",
+      "added_at": "2025-09-07"
+    },
+    {
+      "id": "okc-milk-bottle-grocery",
+      "title": "Milk Bottle Grocery (Route 66 Icon)",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "neighborhood": "Uptown / Asian District",
+      "location_text": "2426 N Classen Blvd, Oklahoma City, OK",
+      "description": "Tiny triangular building with a giant milk bottle on top\u2014quirky Route 66 photo stop.",
+      "tags": [
+        "roadside",
+        "photo-op",
+        "Route 66"
+      ],
+      "external_url": "https://www.nps.gov/places/milk-bottle-grocery.htm",
+      "image": "https://images.unsplash.com/photo-1520975922329-4547a1861a64?q=80&w=1200&auto=format&fit=crop",
+      "added_at": "2025-09-07"
+    },
+    {
+      "id": "okc-eote-coffee-roasters",
+      "title": "E\u00f4t\u00e9 Coffee Roasters (Speakeasy Entrance)",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "neighborhood": "Downtown",
+      "location_text": "Central Exchange Building, Oklahoma City, OK",
+      "description": "Local roaster with a tucked-away vibe in a historic building\u2014great beans, cozy ambiance.",
+      "tags": [
+        "coffee",
+        "local",
+        "cozy"
+      ],
+      "external_url": "https://eotecoffee.com/",
+      "image": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?q=80&w=1200&auto=format&fit=crop",
+      "added_at": "2025-09-07"
+    },
+    {
+      "id": "dal-the-eye-sculpture",
+      "title": "The Eye (Giant Eyeball)",
+      "city": "Dallas",
+      "state": "TX",
+      "neighborhood": "Downtown",
+      "location_text": "1601 Main St lawn outside The Joule",
+      "description": "A surreal 30\u2011ft blue eye by Tony Tasset\u2014one of Dallas\u2019s most iconic oddball photo ops.",
+      "tags": [
+        "public art",
+        "photo-op",
+        "free"
+      ],
+      "external_url": "https://theeyeballdallas.com/",
+      "image": "https://images.unsplash.com/photo-1542736330-dac8c10df5c1?q=80&w=1200&auto=format&fit=crop",
+      "added_at": "2025-09-07"
+    },
+    {
+      "id": "dal-lakeside-park-teddy-bears",
+      "title": "Lakeside Park Teddy Bear Statues",
+      "city": "Dallas",
+      "state": "TX",
+      "neighborhood": "Highland Park",
+      "location_text": "4601 Lakeside Dr, Dallas, TX",
+      "description": "Whimsical oversized teddy bears hidden along Turtle Creek\u2014quiet lawns and bridges for a low\u2011key stroll.",
+      "tags": [
+        "park",
+        "family-friendly",
+        "free"
+      ],
+      "external_url": "https://www.hptx.org/facilities/facility/details/lakeside-park-5",
+      "image": "https://images.unsplash.com/photo-1558981806-ec527fa84c39?q=80&w=1200&auto=format&fit=crop",
+      "added_at": "2025-09-07"
+    },
+    {
+      "id": "dal-dragon-street-galleries",
+      "title": "Dragon Street Galleries Walk",
+      "city": "Dallas",
+      "state": "TX",
+      "neighborhood": "Design District",
+      "location_text": "Dragon St, Dallas, TX",
+      "description": "Independent galleries cluster along Dragon Street\u2014watch for Third Thursdays and pop\u2011up art walks.",
+      "tags": [
+        "art",
+        "galleries",
+        "walkable"
+      ],
+      "external_url": "https://dallasdesigndistrict.com/events/",
+      "image": "https://images.unsplash.com/photo-1551365590-3bfe9b6dcbd4?q=80&w=1200&auto=format&fit=crop",
+      "added_at": "2025-09-07"
+    },
+    {
+      "id": "dal-4dwn-skatepark-garden",
+      "title": "4DWN Skatepark & Urban Garden",
+      "city": "Dallas",
+      "state": "TX",
+      "neighborhood": "South Dallas",
+      "location_text": "2633 Ferris St, Dallas, TX (approx.)",
+      "description": "Community\u2011minded skatepark paired with a hydroponic garden\u2014DIY skate culture meets green space.",
+      "tags": [
+        "community",
+        "skate",
+        "urban garden"
+      ],
+      "external_url": "https://www.dmagazine.com/food-drink/2025/02/4dwn-skate-park-hydroponic-garden/",
+      "image": "https://images.unsplash.com/photo-1532635056881-2cc64c0c0d49?q=80&w=1200&auto=format&fit=crop",
+      "added_at": "2025-09-07"
+    },
+    {
+      "id": "dal-bishop-arts-district",
+      "title": "Bishop Arts District (Indie Corridor)",
+      "city": "Dallas",
+      "state": "TX",
+      "neighborhood": "Oak Cliff",
+      "location_text": "Bishop Ave & 7th St area, Dallas, TX",
+      "description": "Walkable pocket of indie boutiques, murals, coffee, and date\u2011night eats\u2014local vibes over chains.",
+      "tags": [
+        "neighborhood",
+        "shopping",
+        "street art"
+      ],
+      "external_url": "https://www.visitdallas.com/neighborhoods/bishop-arts/",
+      "image": "https://images.unsplash.com/photo-1536053290004-5f97a95d56f6?q=80&w=1200&auto=format&fit=crop",
+      "added_at": "2025-09-07"
+    },
+    {
+      "id": "dal-little-forest-hills",
+      "title": "Little Forest Hills (Eclectic Enclave)",
+      "city": "Dallas",
+      "state": "TX",
+      "neighborhood": "Near White Rock Lake",
+      "location_text": "Little Forest Hills, Dallas, TX",
+      "description": "Art\u2011loving cottage neighborhood with quirky architecture near White Rock Lake\u2014great for a quiet stroll.",
+      "tags": [
+        "neighborhood",
+        "architecture",
+        "stroll"
+      ],
+      "external_url": "https://dustinpitts.com/dallas/underrated-dallas-neighborhoods-discover-hidden-gems/",
+      "image": "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1200&auto=format&fit=crop",
+      "added_at": "2025-09-07"
+    },
+    {
+      "id": "okc-scissortail-park",
+      "title": "Scissortail Park (Urban Oasis)",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "neighborhood": "Downtown",
+      "location_text": "300 SW 7th St, Oklahoma City, OK",
+      "description": "70-acre urban park with skyline views, concerts, a lake, and trails\u2014free, family-friendly classic.",
+      "tags": [
+        "park",
+        "classic favorite",
+        "free"
+      ],
+      "external_url": "https://www.scissortailpark.org/",
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=1200&auto=format&fit=crop",
+      "added_at": "2025-09-07"
+    },
+    {
+      "id": "okc-myriad-botanical-gardens",
+      "title": "Myriad Botanical Gardens & Crystal Bridge",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "neighborhood": "Downtown",
+      "location_text": "301 W Reno Ave, Oklahoma City, OK",
+      "description": "15-acre downtown gardens with the Crystal Bridge Conservatory\u2014events, seasonal displays, and lawns.",
+      "tags": [
+        "garden",
+        "classic favorite",
+        "family-friendly"
+      ],
+      "external_url": "https://myriadgardens.org/",
+      "image": "https://images.unsplash.com/photo-1463436755683-3f805a9d1192?q=80&w=1200&auto=format&fit=crop",
+      "added_at": "2025-09-07"
+    },
+    {
+      "id": "dal-klyde-warren-park",
+      "title": "Klyde Warren Park (Deck Park)",
+      "city": "Dallas",
+      "state": "TX",
+      "neighborhood": "Downtown/Uptown",
+      "location_text": "2012 Woodall Rodgers Fwy, Dallas, TX",
+      "description": "5.4-acre park built over a freeway\u2014food trucks, free fitness, kids\u2019 park, and skyline views.",
+      "tags": [
+        "park",
+        "classic favorite",
+        "free"
+      ],
+      "external_url": "https://www.klydewarrenpark.org/",
+      "image": "https://images.unsplash.com/photo-1529078155058-5d716f45d604?q=80&w=1200&auto=format&fit=crop",
+      "added_at": "2025-09-07"
+    },
+    {
+      "id": "dal-dallas-museum-of-art",
+      "title": "Dallas Museum of Art",
+      "city": "Dallas",
+      "state": "TX",
+      "neighborhood": "Arts District",
+      "location_text": "1717 N Harwood St, Dallas, TX",
+      "description": "One of the nation\u2019s largest art museums; many galleries are free to visit.",
+      "tags": [
+        "museum",
+        "art",
+        "classic favorite"
+      ],
+      "external_url": "https://dma.org/",
+      "image": "https://images.unsplash.com/photo-1549880181-56a44cf4a9a7?q=80&w=1200&auto=format&fit=crop",
+      "added_at": "2025-09-07"
+    },
+    {
+      "id": "aus-cathedral-of-junk",
+      "title": "Cathedral of Junk",
+      "city": "Austin",
+      "state": "TX",
+      "neighborhood": "South Austin",
+      "location_text": "4422 Lareina Dr, Austin, TX",
+      "description": "Backyard folk-art cathedral built since 1988\u201460+ tons of found objects; call ahead.",
+      "tags": [
+        "folk art",
+        "photo-op",
+        "weird austin"
+      ],
+      "external_url": "https://www.austintexas.org/listings/cathedral-of-junk/5938/",
+      "image": "https://images.unsplash.com/photo-1503602642458-232111445657?q=80&w=1200&auto=format&fit=crop",
+      "added_at": "2025-09-07"
+    },
+    {
+      "id": "aus-mayfield-park",
+      "title": "Mayfield Park & Preserve (Peacocks)",
+      "city": "Austin",
+      "state": "TX",
+      "neighborhood": "West Austin",
+      "location_text": "3505 W 35th St, Austin, TX",
+      "description": "Historic cottage and gardens where peacocks roam; ponds, palms, and easy walking trails.",
+      "tags": [
+        "garden",
+        "wildlife",
+        "classic favorite"
+      ],
+      "external_url": "https://www.austintexas.gov/department/mayfield-park",
+      "image": "https://images.unsplash.com/photo-1516371556738-4e18418ee5c8?q=80&w=1200&auto=format&fit=crop",
+      "added_at": "2025-09-07"
+    },
+    {
+      "id": "aus-mount-bonnell",
+      "title": "Covert Park at Mount Bonnell (Overlook)",
+      "city": "Austin",
+      "state": "TX",
+      "neighborhood": "Covert Park",
+      "location_text": "3800 Mount Bonnell Dr, Austin, TX",
+      "description": "Short stair climb to one of Austin\u2019s highest overlooks with sweeping lake and skyline views.",
+      "tags": [
+        "viewpoint",
+        "outdoors",
+        "classic favorite"
+      ],
+      "external_url": "https://www.austintexas.org/listings/covert-park-at-mt-bonnell/2925/",
+      "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?q=80&w=1200&auto=format&fit=crop",
+      "added_at": "2025-09-07"
+    },
+    {
+      "id": "tul-center-of-the-universe",
+      "title": "Center of the Universe (Echo Spot)",
+      "city": "Tulsa",
+      "state": "OK",
+      "neighborhood": "Downtown",
+      "location_text": "W 1st St & S Boston Ave, Tulsa, OK",
+      "description": "Concrete circle with a quirky acoustic echo\u2014stand in the middle and try it.",
+      "tags": [
+        "oddities",
+        "free",
+        "downtown"
+      ],
+      "external_url": "https://www.travelok.com/listings/view.profile/id.19397",
+      "image": "https://images.unsplash.com/photo-1520975916090-3105956dac38?q=80&w=1200&auto=format&fit=crop",
+      "added_at": "2025-09-07"
+    },
+    {
+      "id": "tul-cave-house",
+      "title": "The Cave House (Tours)",
+      "city": "Tulsa",
+      "state": "OK",
+      "neighborhood": "Charles Page Blvd",
+      "location_text": "1623 W Charles Page Blvd, Tulsa, OK",
+      "description": "Whimsical 1920s \u2018cave\u2019 house\u2014formerly a chicken restaurant with Prohibition lore; tours by appointment.",
+      "tags": [
+        "architecture",
+        "tour",
+        "quirky"
+      ],
+      "external_url": "https://cavehousetulsa.com/",
+      "image": "https://images.unsplash.com/photo-1523217712166-7f1d1cf3f917?q=80&w=1200&auto=format&fit=crop",
+      "added_at": "2025-09-07"
+    },
+    {
+      "id": "tul-gathering-place",
+      "title": "Gathering Place (World-Class Park)",
+      "city": "Tulsa",
+      "state": "OK",
+      "neighborhood": "Riverside",
+      "location_text": "2650 S John Williams Way E, Tulsa, OK",
+      "description": "Award-winning, free park with playgrounds, boathouse, gardens, events, and river views.",
+      "tags": [
+        "park",
+        "classic favorite",
+        "family-friendly"
+      ],
+      "external_url": "https://www.gatheringplace.org/",
+      "image": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?q=80&w=1200&auto=format&fit=crop",
+      "added_at": "2025-09-07"
+    },
+    {
+      "id": "kc-west-bottoms-first-fridays",
+      "title": "West Bottoms First Friday Weekends",
+      "city": "Kansas City",
+      "state": "MO",
+      "neighborhood": "West Bottoms",
+      "location_text": "12th St Bridge District, Kansas City, MO",
+      "description": "Massive vintage market & street scene the first weekend each month\u2014food trucks, music, antiques.",
+      "tags": [
+        "market",
+        "monthly event",
+        "classic favorite"
+      ],
+      "external_url": "https://www.visitkc.com/articles/first-weekends/",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?q=80&w=1200&auto=format&fit=crop",
+      "added_at": "2025-09-07"
+    },
+    {
+      "id": "kc-kemper-museum",
+      "title": "Kemper Museum of Contemporary Art (Free)",
+      "city": "Kansas City",
+      "state": "MO",
+      "neighborhood": "Southmoreland",
+      "location_text": "4420 Warwick Blvd, Kansas City, MO",
+      "description": "Leading contemporary art museum with free admission and programs.",
+      "tags": [
+        "museum",
+        "art",
+        "free"
+      ],
+      "external_url": "https://www.kemperart.org/",
+      "image": "https://images.unsplash.com/photo-1534796636912-3b95b3ab5986?q=80&w=1200&auto=format&fit=crop",
+      "added_at": "2025-09-07"
+    },
+    {
+      "id": "kc-city-market",
+      "title": "City Market (River Market District)",
+      "city": "Kansas City",
+      "state": "MO",
+      "neighborhood": "River Market",
+      "location_text": "5th & Walnut St, Kansas City, MO",
+      "description": "Historic daily market with weekend farmers\u2019 markets, global eats, and artisan goods.",
+      "tags": [
+        "market",
+        "food",
+        "classic favorite"
+      ],
+      "external_url": "https://thecitymarketkc.org/",
+      "image": "https://images.unsplash.com/photo-1525857220271-3dda1bfa0f33?q=80&w=1200&auto=format&fit=crop",
+      "added_at": "2025-09-07"
+    },
+    {
+      "id": "den-international-church-of-cannabis",
+      "title": "International Church of Cannabis (Light Show)",
+      "city": "Denver",
+      "state": "CO",
+      "neighborhood": "Washington Park",
+      "location_text": "400 S Logan St, Denver, CO",
+      "description": "Former church reimagined\u2014psychedelic mural ceiling and daily \u2018Beyond\u2019 laser/light meditation shows.",
+      "tags": [
+        "art",
+        "indoor",
+        "oddities"
+      ],
+      "external_url": "https://www.tripadvisor.com/Attraction_Review-g33388-d15200553-Reviews-The_International_Church_of_Cannabis-Denver_Colorado.html",
+      "image": "https://images.unsplash.com/photo-1520974722078-cf54a3f08738?q=80&w=1200&auto=format&fit=crop",
+      "added_at": "2025-09-07"
+    },
+    {
+      "id": "den-confluence-park",
+      "title": "Confluence Park (Where Two Rivers Meet)",
+      "city": "Denver",
+      "state": "CO",
+      "neighborhood": "LoDo",
+      "location_text": "2250 15th St, Denver, CO",
+      "description": "Kayakers, sandy banks, and skyline views where Cherry Creek meets the South Platte\u2014steps from LoDo.",
+      "tags": [
+        "park",
+        "classic favorite",
+        "free"
+      ],
+      "external_url": "https://www.denver.org/things-to-do/sports-recreation/city-parks/",
+      "image": "https://images.unsplash.com/photo-1515266591878-f93e32bc5937?q=80&w=1200&auto=format&fit=crop",
+      "added_at": "2025-09-07"
+    },
+    {
+      "id": "den-rino-murals",
+      "title": "RiNo Art District Murals Walk",
+      "city": "Denver",
+      "state": "CO",
+      "neighborhood": "RiNo",
+      "location_text": "Larimer St corridor, Denver, CO",
+      "description": "Open-air gallery of ever-changing murals; check the map and festival updates.",
+      "tags": [
+        "street art",
+        "walkable",
+        "neighborhood"
+      ],
+      "external_url": "https://rinoartdistrict.org/visit/murals",
+      "image": "https://images.unsplash.com/photo-1533228100845-08145b01de14?q=80&w=1200&auto=format&fit=crop",
+      "added_at": "2025-09-07"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "cleanUrls": true,
+  "headers": [
+    {
+      "source": "/listings.json",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "max-age=3600"
+        }
+      ]
+    }
+  ]
+}

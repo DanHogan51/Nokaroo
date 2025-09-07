@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://example-nokaroo.vercel.app/sitemap.xml
